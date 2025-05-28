@@ -2,9 +2,10 @@
 
 ## Project Overview
 
-<<<<<<< HEAD
+
 This project performs a comprehensive exploratory data analysis (EDA) on real estate transaction data from Saudi Arabia and foucsing on three ragion [Riyadh,Mecca,Eastern Province], comparing the first quarters of 2022 and 2023. The analysis extracts meaningful insights about market trends, property valuations, geographic patterns, and market segmentation to understand how the Saudi real estate market evolved during this period.
-=======
+
+
 This project performs a comprehensive exploratory data analysis (EDA) on real estate transaction data from Saudi Arabia, comparing the first quarters of 2022 and 2023. The analysis extracts meaningful insights about market trends, property valuations, geographic patterns, and market segmentation to understand how the Saudi real estate market evolved during this period.
 >>>>>>> 48d9b0cad336624412841d8916b6035fb84ab5ee
 
